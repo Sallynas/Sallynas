@@ -21,11 +21,9 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Sallynas&theme=jolly&hide_border=false)<br/>
 
-
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sallynas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
